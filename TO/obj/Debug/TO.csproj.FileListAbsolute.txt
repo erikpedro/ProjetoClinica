@@ -1,0 +1,6 @@
+C:\Users\PICHAU\source\repos\TO\bin\Debug\TO.dll
+C:\Users\PICHAU\source\repos\TO\bin\Debug\TO.pdb
+C:\Users\PICHAU\source\repos\TO\obj\Debug\TO.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\TO\obj\Debug\TO.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\TO\obj\Debug\TO.dll
+C:\Users\PICHAU\source\repos\TO\obj\Debug\TO.pdb
